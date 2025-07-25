@@ -38,58 +38,75 @@
 
 ---
 
-## 🚀 Projects
-
-### 🔥 Featured
-
-- 🧾 **[RecipeHub (MERN)](https://github.com/raghulS2004/recipe-mern-app.git)**  
-  ➤ Recipe filtering, pagination, JWT auth  
-  ➤ Optimized performance: 40% faster API responses
-
-- 📝 **[Blog Management System](https://github.com/raghulS2004/Blog-App.git)**  
-  ➤ Passport.js auth, secure CRUD, deployed on Vercel  
-  ➤ 95% mobile responsiveness with reusable components
-
-- ☁️ **[Weather App](https://github.com/raghulS2004/Weather-App.git)**  
-  ➤ Real-time data for 100+ cities using geolocation & OpenWeatherMap API
-
-- 🌐 **[Personal Portfolio](https://github.com/raghulS2004/Personal-Portfolio.git)**  
-  ➤ React-powered, modern UI, deployed via Vercel
-
----
-
-## 🧑‍💻 Tech Stack
+## 🛠️ Tech Stack
 
 <p align="center">
-  
-  <b>Languages</b><br>
+  <strong>🚀 Languages</strong><br><br>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" /><br><br>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+</p>
 
-  <b>Frontend</b><br>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+<p align="center">
+  <strong>🎨 Frontend Development</strong><br><br>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /><br><br>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
+</p>
 
-  <b>Backend & Database</b><br>
+<p align="center">
+  <strong>🔧 Backend Development</strong><br><br>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" /><br><br>
+  <img src="https://img.shields.io/badge/REST%20API-005571?style=for-the-badge&logo=api&logoColor=white" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
+  <img src="https://img.shields.io/badge/Passport.js-34A853?style=for-the-badge&logo=google&logoColor=white" />
+</p>
 
-  <b>Tools</b><br>
+<p align="center">
+  <strong>🗄️ Databases</strong><br><br>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
+
+<p align="center">
+  <strong>🧰 Tools & IDEs</strong><br><br>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white" />
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+</p>
+
+<p align="center">
+  <strong>🚀 Deployment Platforms</strong><br><br>
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Render-46A2F1?style=for-the-badge&logo=render&logoColor=white" />
   <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
 </p>
 
 ---
 
-## 📈 GitHub Stats
+## 🚀 Featured Projects
+
+- **[RecipeHub (MERN)](https://github.com/raghulS2004/recipe-mern-app.git)**  
+  ➤ Recipe filtering, pagination, JWT auth  
+  ➤ Optimized performance: 40% faster API responses
+
+- **[Blog Management System](https://github.com/raghulS2004/Blog-App.git)**  
+  ➤ Passport.js auth, secure CRUD, Vercel deployment  
+  ➤ 95% mobile responsiveness with reusable components
+
+- **[Weather App](https://github.com/raghulS2004/Weather-App.git)**  
+  ➤ Real-time data for 100+ cities using OpenWeatherMap API
+
+- **[Personal Portfolio](https://github.com/raghulS2004/Personal-Portfolio.git)**  
+  ➤ React-based portfolio site with projects, hosted on Vercel
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=raghulS2004&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" width="48%">
@@ -98,13 +115,13 @@
 
 ---
 
-## 🏅 Achievements
+## 🏆 Achievements
 
 - ✅ 350+ LeetCode Problems Solved
-- 🧠 Participant – **Smart India Hackathon 2024**
-- 🌐 IBM Hackathon – Built cloud-secure MERN stack project
-- 🎯 Lead – College Media Team (Events & Promotions)
-- 👨‍💻 Active Member – College Coding Club
+- 🧠 Smart India Hackathon 2024 – Finalist
+- 💻 IBM Hackathon – Cloud-secure MERN app
+- 👨‍💻 College Coding Club – Active Member
+- 🎨 Media Team Lead – Cultural Promotions
 
 ---
 
@@ -112,9 +129,9 @@
 
 | Degree | Institution | Year | Score |
 |--------|-------------|------|-------|
-| B.E. Computer Science | Saveetha Engineering College | 2022–2026 | 8.0 CGPA |
-| HSC (12th Grade) | Vivekananda Vidyalaya (CBSE) | 2022 | 89% |
-| SSLC (10th Grade) | Vivekananda Vidyalaya (CBSE) | 2020 | 79% |
+| B.E. CSE | Saveetha Engineering College | 2022–2026 | 8.0 CGPA |
+| HSC (12th) | Vivekananda Vidyalaya CBSE | 2022 | 89% |
+| SSLC (10th) | Vivekananda Vidyalaya CBSE | 2020 | 79% |
 
 ---
 
@@ -123,7 +140,7 @@
 </p>
 
 <p align="center">
-  <b>✨ Let’s connect and create something amazing together!</b>
+  <b>✨ Let’s connect and build something amazing together!</b>
 </p>
 
 <p align="center">
