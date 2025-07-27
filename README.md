@@ -118,8 +118,8 @@
 ## 🏆 Achievements
 
 - ✅ 350+ LeetCode Problems Solved
-- 🧠 Smart India Hackathon 2024 – Finalist
-- 💻 IBM Hackathon – Cloud-secure MERN app
+- 🧠 Smart India Hackathon 2024 – Participated
+- 💻 IBM Hackathon – MERN app
 - 👨‍💻 College Coding Club – Active Member
 - 🎨 Media Team Lead – Cultural Promotions
 
