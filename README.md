@@ -35,6 +35,20 @@
 
 ---
 
+## 🏆 GitHub Analytics  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=raghulS2004&show_icons=true&theme=radical&hide_border=true&title_color=44E3FF&icon_color=FF6B6B&text_color=FFFFFF&bg_color=0D1117&rank_icon=github&include_all_commits=true&count_private=true" width="49%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=raghulS2004&theme=radical&hide_border=true&background=0D1117&stroke=44E3FF&ring=FF6B6B&fire=FFD93D&currStreakLabel=44E3FF" width="49%">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raghulS2004&layout=compact&theme=radical&hide_border=true&title_color=44E3FF&text_color=FFFFFF&bg_color=0D1117&langs_count=8&custom_title=💻%20Most%20Used%20Languages" width="49%">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=raghulS2004&theme=github-compact&area=true&hide_border=true&color=44E3FF&line=FF6B6B&point=FFD93D&bg_color=0D1117" width="49%">
+</p>
+
+---
+
 ## 🚀 Featured Projects  
 
 <div align="center">
