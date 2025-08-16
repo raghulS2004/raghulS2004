@@ -1,97 +1,112 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Raghul+S!;Full+Stack+Developer+%7C+MERN+Stack;DSA+Enthusiast+%7C+Always+Learning" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Raghul+S!;Full+Stack+Developer+%7C+MERN+Stack;DSA+Enthusiast+%7C+Always+Learning+New+Tech" alt="Typing SVG" />
 </p>
 
----
-
-## 👨‍💻 About Me  
-
-Computer Science Engineering student at **Saveetha Engineering College (2022–2026)** with a GPA of **8.0**.  
-Passionate about **building scalable full-stack applications** and solving **data structure & algorithm problems** (380+ on LeetCode).  
-Strong foundation in **OOP, system design, Unix/Linux**, and hands-on experience with **MERN stack projects, e-commerce platforms, and microservices**.  
-
----
-
-## 🛠️ Skills  
-
-**Languages:** Java, Python, C, JavaScript (ES6+)  
-**Frontend:** React.js, Next.js, HTML5, CSS3, Tailwind CSS, Redux  
-**Backend:** Node.js, Express.js, RESTful APIs, JWT, Passport.js  
-**Databases:** MongoDB, MySQL  
-**Tools & Platforms:** Git, Postman, Linux CLI, VS Code, Vercel, Render, Netlify  
-**Concepts:** Data Structures & Algorithms, System Design, OOP, Functional Programming  
-
----
-
-## 💼 Experience  
-
-**Full-Stack Developer Intern – Arjun Vision Tech Solutions (May–June 2024)**  
-- Built and deployed a MERN blog system handling **100+ users and posts**  
-- Improved backend clarity by **40%** using modular routing and optimized design  
-
----
-
-## 🚀 Featured Projects  
-
-- **[RecipeHub (MERN)](https://github.com/raghulS2004/recipe-mern-app.git)**  
-  ➤ Recipe filtering, pagination, JWT auth  
-  ➤ Optimized API responses (40% faster)  
-
-- **[Blog Management System](https://github.com/raghulS2004/Blog-App.git)**  
-  ➤ Secure CRUD with Passport.js auth  
-  ➤ CI/CD pipelines via GitHub Actions  
-  ➤ Deployed on Vercel  
-
-- **Freelance Shopify E-Commerce Site**  
-  ➤ Designed & launched clothing store with 20+ products  
-  ➤ Integrated secure payment gateway & SEO optimization  
-
-- **URL Shortener & Logger (MERN)**  
-  ➤ Microservices-based design with expiry & click tracking  
-  ➤ Reduced latency by **35%** | Enhanced security with bcrypt  
-
----
-
-## 🏆 Achievements  
-
-- 🥈 **2nd Prize – Code Relay Hackathon 2025** (70+ teams)  
-- ✅ **380+ LeetCode Problems Solved**  
-- 🚀 **Smart India Hackathon 2024 – Participant**  
-- ☁️ **IBM Hackathon 2024 – Participant (Cloud + API Security)**  
-- 👨‍💻 Active Member – **College Coding Club**  
-- 🎨 Media Team Lead – **Cultural Promotions**  
-
----
-
-## 🎓 Education  
-
-- **B.E. CSE – Saveetha Engineering College (2022–2026)** | GPA: 8.0  
-- **HSC (12th) – Vivekananda Vidyalaya, CBSE (2022)** | 89%  
-- **SSLC (10th) – Vivekananda Vidyalaya, CBSE (2020)** | 79%  
-
----
-
-## 🔗 Connect with Me  
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/profile-raghul">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="40">
   </a>
   <a href="https://github.com/raghulS2004">
-    <img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white">
+    <img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=44E3FF" height="40">
   </a>
   <a href="https://personal-portfolio-omega-beige.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-44E3FF?style=for-the-badge&logo=google-chrome&logoColor=white">
+    <img src="https://img.shields.io/badge/Portfolio-44E3FF?style=for-the-badge&logo=google-chrome&logoColor=white" height="40">
   </a>
   <a href="mailto:raghul.s0004@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="40">
   </a>
   <a href="https://leetcode.com/u/raghulS2004/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" height="40">
   </a>
 </p>
 
 ---
+
+## 🌟 About Me
+
+<p align="center">
+  <i>
+    I'm a Computer Science Engineering student passionate about building scalable full-stack applications and solving complex algorithmic problems.<br>
+    🔧 Skilled in MERN stack | 📚 Solved 350+ LeetCode problems | 💻 Built 100+ user blog systems<br>
+    Constantly learning, collaborating, and pushing boundaries in tech innovation.
+  </i>
+</p>
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <strong>🚀 Languages</strong><br><br>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+</p>
+
+<p align="center">
+  <strong>🎨 Frontend Development</strong><br><br>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
+</p>
+
+<p align="center">
+  <strong>🔧 Backend Development</strong><br><br>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST%20API-005571?style=for-the-badge&logo=api&logoColor=white" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
+  <img src="https://img.shields.io/badge/Passport.js-34A853?style=for-the-badge&logo=google&logoColor=white" />
+</p>
+
+<p align="center">
+  <strong>🗄️ Databases</strong><br><br>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
+
+<p align="center">
+  <strong>🧰 Tools & IDEs</strong><br><br>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+</p>
+
+<p align="center">
+  <strong>🚀 Deployment Platforms</strong><br><br>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Render-46A2F1?style=for-the-badge&logo=render&logoColor=white" />
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+- **[RecipeHub (MERN)](https://github.com/raghulS2004/recipe-mern-app.git)**  
+  ➤ Recipe filtering, pagination, JWT auth  
+  ➤ Optimized performance: 40% faster API responses
+
+- **[Blog Management System](https://github.com/raghulS2004/Blog-App.git)**  
+  ➤ Passport.js auth, secure CRUD, Vercel deployment  
+  ➤ 95% mobile responsiveness with reusable components
+
+- **[Weather App](https://github.com/raghulS2004/Weather-App.git)**  
+  ➤ Real-time data for 100+ cities using OpenWeatherMap API
+
+- **[Personal Portfolio](https://github.com/raghulS2004/Personal-Portfolio.git)**  
+  ➤ React-based portfolio site with projects, hosted on Vercel
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=raghulS2004&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" width="48%">
@@ -99,6 +114,34 @@ Strong foundation in **OOP, system design, Unix/Linux**, and hands-on experience
 </p>
 
 ---
+
+## 🏆 Achievements
+
+- ✅ 350+ LeetCode Problems Solved
+- 🧠 Smart India Hackathon 2024 – Participated
+- 💻 IBM Hackathon – MERN app
+- 👨‍💻 College Coding Club – Active Member
+- 🎨 Media Team Lead – Cultural Promotions
+
+---
+
+## 🎓 Education
+
+| Degree | Institution | Year | Score |
+|--------|-------------|------|-------|
+| B.E. CSE | Saveetha Engineering College | 2022–2026 | 8.0 CGPA |
+| HSC (12th) | Vivekananda Vidyalaya CBSE | 2022 | 89% |
+| SSLC (10th) | Vivekananda Vidyalaya CBSE | 2020 | 79% |
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="200" />
+</p>
+
+<p align="center">
+  <b>✨ Let’s connect and build something amazing together!</b>
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=raghulS2004&label=Profile%20views&color=44E3FF&style=for-the-badge" alt="Profile Views" />
