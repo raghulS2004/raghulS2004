@@ -33,6 +33,8 @@
   </i>
 </p>
 
+<br><br>
+
 ---
 
 ## 🏆 GitHub Analytics  
@@ -46,6 +48,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raghulS2004&layout=compact&theme=radical&hide_border=true&title_color=44E3FF&text_color=FFFFFF&bg_color=0D1117&langs_count=8&custom_title=💻%20Most%20Used%20Languages" width="49%">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=raghulS2004&theme=github-compact&area=true&hide_border=true&color=44E3FF&line=FF6B6B&point=FFD93D&bg_color=0D1117" width="49%">
 </p>
+
+<br><br>
 
 ---
 
@@ -64,6 +68,8 @@
 
 </div>
 
+<br><br>
+
 ---
 
 ## 💼 Professional Experience  
@@ -75,6 +81,8 @@
 | **Arjun Vision Tech Solutions** | Full-Stack Developer Intern | May–June 2024 | Developed MERN blog system for 100+ users, optimized backend clarity by 40% |
 
 </div>
+
+<br><br>
 
 ---
 
@@ -92,6 +100,8 @@
 | 🎨 Media Team Lead | – | Led 10+ members for cultural promotions |
 
 </div>
+
+<br><br>
 
 ---
 
@@ -114,6 +124,9 @@
 
 </div>
 
+<br><br>
+
+---
 
 ## 🎯 Technical Arsenal  
 
@@ -129,6 +142,8 @@
 
 </div>
 
+<br><br>
+
 ---
 
 ## 🎓 Education  
@@ -142,6 +157,8 @@
 | SSLC (10th Grade) | Vivekananda Vidyalaya CBSE | 2020 | 79% |
 
 </div>
+
+<br><br>
 
 ---
 
